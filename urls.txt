@@ -1,2 +1,3 @@
 http://backend.course?name="Yuriy Soroka"&github_name=Yur1kk&group="ФЕІ-24С"&subgroup="Підгрупа 1"
 http://backend.course?name=%22Yuriy%20Soroka%22&github_name=Yur1kk&group=%22%D0%A4%D0%95%D0%86-24%D0%A1%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+https://bank.gov.ua/NBUStatService/v1/statdirectory/banksincexp?date=202007&period=q&json
